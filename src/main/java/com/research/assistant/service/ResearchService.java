@@ -62,6 +62,7 @@ public class ResearchService {
         }catch(Exception e){
             return "Pasring error : "+e.getMessage();
         }
+        return "No Content found!";
     }
 
     private String buildPrompt(ResearchRequest request){
