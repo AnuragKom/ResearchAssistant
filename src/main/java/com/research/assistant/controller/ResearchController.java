@@ -6,8 +6,6 @@ import lombok.AllArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-//hi saniya
-
 @RestController
 @RequestMapping("/api/research")
 @CrossOrigin(origins = "*")

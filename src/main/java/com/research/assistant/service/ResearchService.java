@@ -69,9 +69,15 @@ public class ResearchService {
         StringBuilder prompt = new StringBuilder();
         switch(request.getOperation()){
             case "summarize":
-                prompt.append("Summarize the following content clearly and concisely.\n" +
-                        "Focus on the key ideas, avoid repetition, and preserve important details.\n" +
-                        "Use bullet points if suitable.");
+                prompt.append(
+                        "Summarize the following content in a clear, concise, and well-formatted manner.\n" +
+                                "- Start with a short heading summarizing the overall topic, wrapped in <b> tags, followed by a single line break (<br>).\n" +
+                                "- Then write a 1-2 line summary paragraph.\n" +
+                                "- If there are key details or examples, use bullet points inside <ul><li>...</li></ul> directly after the paragraph — no extra line breaks.\n" +
+                                "- Avoid Markdown symbols like *, #, or -.\n" +
+                                "- Ensure the final output is compact, visually clear, and ready for direct HTML display."
+                );
+
                 break;
 
             case "suggest":
