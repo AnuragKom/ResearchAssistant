@@ -17,7 +17,7 @@
   <samp>
     <a href="https://anuragkom.github.io/portfolio/">「 Google Me 」</a>
     <br>
-    「 I am a full stack software engineer 」
+    「 I am a full stack software developer 」
     <br>
     <br>
   </samp>
@@ -76,10 +76,17 @@
 ### <h3 align= "center">Made using complete MERN stack with redux</h1>
 <!-- DEMO-->
 ## Demo
-<video width="900" controls>
-  <source src="assets/Research_Assistant_Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div>
+  <p>
+  Here's a short demo of the <b>Research Assistant</b> an AI powered helper tool.
+</p>
+  
+<p align="center">
+  <img align="center" width="1000" src="/assets/Research-assistant.gif" alt="Coding gif" />
+</p>
+
+</div>
+
 <!-- LICENSE -->
 ## License
 
