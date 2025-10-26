@@ -84,7 +84,9 @@
 <p align="center">
   <img align="center" width="1000" src="/assets/Research-assistant.gif" alt="Coding gif" />
 </p>
-
+<p align="center">
+<img src="assets/screenshot1.png" width="450" padding="50"> &nbsp; <img src="assets/screenshot2.png" width="450"> &nbsp; 
+</p>
 </div>
 
 <!-- LICENSE -->
