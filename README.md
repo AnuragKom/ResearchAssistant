@@ -15,9 +15,9 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://anuragkomrewar.github.io/portfolio/">「 Google Me 」</a>
+    <a href="https://anuragkom.github.io/portfolio/">「 Google Me 」</a>
     <br>
-    「 I am a full stack web appplication developer 」
+    「 I am a full stack software engineer 」
     <br>
     <br>
   </samp>
@@ -60,24 +60,26 @@
 
 ## Tech Stack Used To Code
 
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
+[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 # <h1 align = "center">Responsive TodoList App</h1>
 ### <h3 align= "center">Made using complete MERN stack with redux</h1>
-<img src="TodoAppImages/Home.png" width="450" padding="50"> &nbsp; <img src="TodoAppImages/DeleteTodo.png" width="450"> &nbsp; 
-#
-<img src="TodoAppImages/ActiveTodo.png" width="450"> &nbsp; <img src="TodoAppImages/DoneTodo.png" width="450"> &nbsp; 
-#
+<!-- DEMO-->
+## Demo
+<video width="900" controls>
+  <source src="assets/Research_Assistant_Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 <!-- LICENSE -->
 ## License
 
