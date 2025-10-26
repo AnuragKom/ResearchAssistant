@@ -72,8 +72,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-# <h1 align = "center">Responsive TodoList App</h1>
-### <h3 align= "center">Made using complete MERN stack with redux</h1>
+# <h1 align = "center">Your Smart AI Research Assistant</h1>
+### <h3 align= "center">Made using Google gemini AI model</h1>
+<!-- ABOUT THE PROJECT -->
+## About The Project
+This project is a powerful, AI-assisted research and content generation system designed to make understanding and summarizing complex information effortless.
+It brings together backend intelligence, modular extensions, and smart automation to help users analyze large data sets, extract key insights, and produce structured outputs instantly.
+
+With a focus on speed, accuracy, and simplicity, the system combines modern development practices, scalable architecture, and seamless integration with AI models to transform how teams collaborate, learn, and produce meaningful results.
 <!-- DEMO-->
 ## Demo
 <div>
@@ -85,10 +91,52 @@
   <img align="center" width="1000" src="/assets/Research-assistant.gif" alt="Coding gif" />
 </p>
 <p align="center">
-<img src="assets/screenshot1.png" width="450" padding="50"> &nbsp; <img src="assets/screenshot2.png" width="450"> &nbsp; 
+<img src="assets/screenshot1.png" width="350" padding="50"> &nbsp; <img src="assets/screenshot2.png" width="350"> &nbsp; 
 </p>
 </div>
 
+<!-- Features-->
+## Features
+<div>
+<p>🔍 AI-Powered Summarization — Reads and summarizes long or technical content into concise, well-formatted sections automatically.</p>
+<p>⚡ Smart Content Analysis — Identifies key ideas, patterns, and actionable insights using intelligent algorithms.</p>
+<p>🧩 Modular Architecture — Built for easy extension; plug in new AI models, APIs, or processing modules effortlessly.</p>
+<p>🛠️ RESTful Backend — Offers clean and standardized APIs for integration with web, mobile, or external systems.</p>
+<p>🧠 Context-Aware Suggestions — Provides recommendations or content improvements based on prior inputs.</p>
+<p>🧰 Developer Friendly — Uses best practices like clean code structure, dependency injection, and centralized error handling.</p>
+<p>🔒 Secure and Scalable — Implements validation, masking, and sanitization for sensitive data; optimized for performance.</p>
+</div>
+
+<!-- setup-->
+### Setup
+
+#### Prerequisite
+- Java 17+
+- Maven 3.8+
+- Spring Boot (already configured in the project)
+- Google Gemini AI Model API
+- (Optional) Docker – for containerized deployment
+
+<!-- INSTALLATION -->
+## Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/AnuragKom/ResearchAssistant.git
+
+2. Navigate and Build the project:
+   ```sh
+   mvn clean install
+
+3. Run the project:
+   ```sh
+   mvn spring-boot:run
+
+4. Clone the extension repository:
+   ```sh
+   git clone https://github.com/AnuragKom/ResearchAssistantExtension.git
+4. Add extension to your browser
+5. Ready to go!
 <!-- LICENSE -->
 ## License
 
